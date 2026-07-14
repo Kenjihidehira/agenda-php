@@ -100,6 +100,7 @@ $pendentes = count(array_filter($agendamentos, fn(array $item) => $item['status'
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="redesign.css">
 </head>
 <body>
 <aside class="menu">
